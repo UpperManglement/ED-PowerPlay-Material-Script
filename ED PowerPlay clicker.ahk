@@ -62,4 +62,3 @@ loop {
 		break, buy
 	}
 }
-;
