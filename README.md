@@ -1,11 +1,10 @@
 # ED PowerPlay Material Script
-An AutoHotkey script designed to automate clicking through purchases of PowerPlay materials in Elite Dangerous. Great if you like avoiding carpal tunnel and/or general boredom while loading up your Type 9 on PowerPlay mats 10 at a time
+An AutoHotkey script designed to automate clicking through purchases of PowerPlay materials in Elite Dangerous. Great if you like avoiding carpal tunnel and/or general boredom while loading up your Type 9 on PowerPlay mats 10 at a time. Obviously, you need enough credits to purchase your desired materials over and over again. This macro does not cheat/hack in credits or cargo or anything like that. All it does is click in-game menu buttons for you
 
 ## Versions
 #### v1.0 (initial public release):
 - Tested against Elite Dangerous version 3.5.3.400 (current as of 1/1/2020) and AutoHotkey version 1.1.24.01 on Windows 10
 - Loops through purchasing X amount of Y material, until stopped by the user
-- Obviously, you need enough credits to purchase your desired materials. This script does not cheat in credits or anything like that. All it does is click in-game menu buttons for you
 - Currently, if you need to purchase different amounts of materials, or different materials, manual editing of the script is required in your favorite text editor (there are two "while" loops with comments above them showing what needs modifying). A GUI that prompts the user upon first launch with menu options or text input is planned for a future release
 
 ## Usage
