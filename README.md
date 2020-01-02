@@ -15,4 +15,4 @@ An AutoHotkey script designed to automate clicking through purchases of PowerPla
 4) Now is also a good time to ensure that you don't have **Alt+A** or **Comma** mapped to anything that can interfere with menu navigation. The script uses those hotkeys to start and stop the purchasing loop.
 5) Go to your PowerPlay contact and go to the menu screen where you have the option to buy the 3 PowerPlay material types. Keep the very top option highlighted, don't hover over/select something else, otherwise the macro won't work right
 6) Press **Alt+A** to begin the macro. It will begin filling your cargo hold and purchasing the desired material.
-7) Press and hold **Comma (,)** to stop the macro. The script will not stop immediately, this is normal. Keep holding comma until the last material "cycle" is complete
+7) Press and hold **Comma (,)** to stop the macro. The script will not stop immediately, this is normal. Keep holding comma until the last material "cycle" is complete. (Note: The macro can be started and stopped at will using the above keys. You don't need to kill and restart the script entirely each time you want to use it)
